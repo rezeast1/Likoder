@@ -40,7 +40,7 @@
 
 ##### БД ФНС
 
-![](img.png)
+![](https://sun9-74.userapi.com/impg/pJ-iOQ3ZhHCnNJKw_RcJ0rAF8Qjvq4vTlAuUsw/PsGyl38uiMU.jpg?size=208x274&quality=96&sign=ebde538fbe4fca50bf2a8ce1320d06a8&type=album)
 
 ##### БД мобильного приложения
 ![](https://sun9-49.userapi.com/impg/RtJAlvtAdXn1WFHe7cA9-rCH_jsRZOfzE-WBvQ/K59ac87p4SU.jpg?size=225x180&quality=96&sign=68beac00e918f55e4a5f70213e744618&type=album)
@@ -51,9 +51,9 @@
 
 #### Визуализация процессов при помощи _Sequence diagram_
 ##### Процесс добавления паспортных данных в личный кабинет
-![img_1.png](img_1.png)
+![](https://sun9-73.userapi.com/impg/QTDxNMyUDkoAd5QOU8iceOkdR8GKh4_qlslt6w/3fHPNeBNF-I.jpg?size=550x557&quality=96&sign=600275a070431d119e8dcf9bfb18b6f2&type=album)
 ##### Процесс удаления паспортных данных
-![img_2.png](img_2.png)
+![](https://sun21-1.userapi.com/impg/ko7-9IktJjU_DSl62N1LpnLSKUrBk-6ZYIpuPQ/nvcvLXhwBxU.jpg?size=638x571&quality=96&sign=c9b01e39935e7711cd216277bf8236a0&type=album)
 
 *БД - базы данных*
 
