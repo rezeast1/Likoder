@@ -1,4 +1,4 @@
-## Post /user
+## Post /currentuser
 ### Description
 Отправляет паспортные данные в БД
 ### Parameters
